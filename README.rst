@@ -6,6 +6,8 @@ web application with the following:
 
 * Submodule-based dependency control
 
+* AMD-based (RequireJS) performant module loaders
+
 * A Single-File JavaScript Module (SFJM) architecture
 
 * Triplet-based UI components
