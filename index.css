@@ -10,7 +10,6 @@ body {
     background-color: #111;
     color: #eee;
     font-family: monospace;
-    font-size: 10pt;
 }
 
 pre {
@@ -18,4 +17,5 @@ pre {
     height: 50vh;
     margin-left: 25vw;
     margin-top: 25vh;
+    font-size: 14pt;
 }
