@@ -1,0 +1,21 @@
+/*
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #111;
+    color: #eee;
+    font-family: monospace;
+    font-size: 10pt;
+}
+
+pre {
+    width: 50vw;
+    height: 50vh;
+    margin-left: 25vw;
+    margin-top: 25vh;
+}
